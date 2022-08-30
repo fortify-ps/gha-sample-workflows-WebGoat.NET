@@ -1,4 +1,4 @@
-name: Import foD results to GitHub
+name: Import FoD results to GitHub
 
 on: [workflow_dispatch]
 
